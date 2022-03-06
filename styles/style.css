@@ -57,8 +57,11 @@ header.nav.List{
 .container{
     height: calc(100vh-6rem);
     text-align: center;
+    font-size: 25px;
 }
 .container img{
+    margin: 1rem;
+    padding: 1rem;
     width: 500px;
     height: 500px;
     border-radius: 50%;
@@ -66,5 +69,7 @@ header.nav.List{
 .end{
     font-size: 2rem;
     text-align: center;
+    background-color: black;
+    color: #fff;
 }
 
